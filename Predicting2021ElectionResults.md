@@ -517,4 +517,4 @@ Turnout percentage: 50.11%
 
 # Data and Source Code
 
-
+All the data and source code used to create this post is [located on my GitHub here](https://github.com/golf1052/SeattleElections). The source code of the website map of the predicted results is [located on my GitHub here](https://github.com/golf1052/seattle-elections).
